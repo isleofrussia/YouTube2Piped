@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         YT2Piped
-// @namespace    https://isleofrussia.github.io/YT2Piped
+// @name         YouTube2Piped
+// @namespace    https://isleofrussia.github.io/YouTube2Piped
 // @version      0.1
 // @description  Redirect YouTube links to Piped
-// @author       MZ
+// @author       https://isleofrussia.github.io/
 // @grant        none
 // @run-at       document-start
 // @include      *://www.youtube.com/*
